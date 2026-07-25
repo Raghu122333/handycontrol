@@ -71,21 +71,6 @@ Make sure your webcam is connected before running the program.
 6. Executes the corresponding keyboard or mouse action using PyAutoGUI.
 7. Displays the recognized gesture on the video feed.
 
-## 📸 Demo
-
-You can add screenshots or a GIF here.
-
-Example:
-
-```
-demo.gif
-```
-
-or
-
-```
-screenshots/
-```
 
 ## 🔮 Future Improvements
 
